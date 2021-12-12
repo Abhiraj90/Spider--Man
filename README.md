@@ -1,19 +1,21 @@
 
 <p align="center">
-𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
+SPIDER-MAN
 
 <p align="center">
-𝙼𝙰𝙺𝙴𝙳 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳
+ cʀᴇᴀтᴇ ʙʏ ❤️ ᴀʙнι
 
 ##
-<a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
-<div align="center">
-        <img src="TAURUSGFX2.gif" alt="GIF" width="150" height="150"/>
+
 </p>
 
 <div align="center">
 
-## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+MUHAMMED;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
+## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Spider--Man+WA+Bot+repo;Created+by+Abhi;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
+
+
+<a href="https://bit.ly/3koZRGY"><img src="20211212_205053.jpg" alt="google-font" border="0"></a>
+<div align="center">
 
  </a>
 </p>
