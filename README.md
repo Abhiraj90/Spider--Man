@@ -21,13 +21,11 @@ SPIDER-MAN
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="TAURUS" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
+<a href="#"><img title="SPIDER--MAN" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
 
 </p>
        
-  <p align="center">
-<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
-</p>
+  
 </div>
 <p align="center">
 ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
@@ -41,11 +39,11 @@ SPIDER-MAN
 
 <h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://instagram.com/taurus.exe_?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="kyrie.baran" height="45" width="45" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=1l6ptxepo5gvj&utm_content=lqv5g40" target="blank"><img align="center" src="TRSIG.png" alt="kyrie.baran" height="45" width="45" /></a>
 </p>
 <h3 align="center">sᴜᴘᴘᴏʀᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA" target="blank"><img align="center" src="TRSYT.png" height="45" width="60" /></a>
+<a href="https://youtube.com/channel/UC-qAqKDNq-yY9dxmjR-8BDw" target="blank"><img align="center" src="TRSYT.png" height="45" width="60" /></a>
 </p>
   
 
@@ -60,7 +58,7 @@ SPIDER-MAN
 ##
   <h3 align="center">ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</h3>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
+  <a href="https://https://chat.whatsapp.com/FOWk754lALuKVldJ4LL4tS" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
 </p>
 
 
