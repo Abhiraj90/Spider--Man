@@ -28,7 +28,7 @@ SPIDER-MAN
   
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/abhiraj90">Abhiraj</a>
     <br>
        | © |
         Reserved |
@@ -46,13 +46,6 @@ SPIDER-MAN
 <a href="https://youtube.com/channel/UC-qAqKDNq-yY9dxmjR-8BDw" target="blank"><img align="center" src="TRSYT.png" height="45" width="60" /></a>
 </p>
   
-
-<p align="center">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-usrbot&show_icons=true&theme=dark&locale=en" alt="muhammed-usrbot" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-usrbot&theme=dark" alt="muhammed-usrbot" /></p>
-</p>
 
 
 ##
@@ -90,32 +83,7 @@ __________________
 ```
 bash <(curl-L https://t.ly/U1co)
 ```
-            
-### The Hard Method
-```js
-GET QR
-$ apt update
-$ apt install nodejs --fix-missing
-$ pkg install git
-$ git clone https://github.com/muhammed-usrbot/taurus-bot
-$ cd taurus-bot
-$ chmod +x *
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node qr.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/muhammed-usrbot/taurus-bot
-$ cd taurus-bot
-$ chmod +x *
-$ npm i
-$ node qr.js
-   // scan the qr using whatsapp web on your phone
-$ node bot.js
-```
-
+          
 
 
 ### Warning ⚠ ! 
@@ -129,18 +97,14 @@ By establishing the Taurus-Bot, you are deemed to have accepted these responsibi
 ## Developers 
   <div align="center">
     
-  [![muhammed-usrbot](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TAURUS](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
-----|----|----
-[MUHAMMED](https://github.com/muhammed-usrbot) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [TAURUS](https://github.com/taurus-x-toxide)
-Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
-  </div>
+  
 
 ## Contributer 
-`MUHAMMED`
+`Abhiraj`
         
         
 ## License 
-This project is protected by `GNU General Public Licence v3.0` license.
+This project is protected by `GNU General Public Licence v1.0` license.
 
 ### Disclaimer 
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
