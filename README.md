@@ -68,7 +68,7 @@ __________________
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://bit.ly/3x8QSyf)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Abhiraj90/Spider--Man)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Spider--Man/Abhiraj90)
 -------
 <b
 <br >
